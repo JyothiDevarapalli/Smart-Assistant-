@@ -1,4 +1,25 @@
-# Smart-Assistant- using Speech recognition
-This is a PC Assistant which is developed in Python.This works on giving voice commmands. 
-On giving voice commands, the voice commands are converted to machine understandable language and executes the commands. The keyboard strokes and mouse movements are done through pyautogui module in python.
-We have developed this Smart Assistant that helps in opening apps that are installed in your system, performing system commands through Command prompt and other commands(such as weather, Time , Jokes ,etc,.) 
+# Voice-Controlled Assistant Application
+
+Designed and implemented a voice-controlled assistant using Python, integrating various modules to perform a wide range of tasks based on voice commands. The assistant is capable of handling tasks such as system control, joke delivery, and more.
+
+Features:
+
+Voice Recognition: Utilized the SpeechRecognition library to recognize voice commands.
+
+
+Speech Synthesis: Implemented text-to-speech functionality with the pyttsx3 library for natural language responses.
+
+
+System Control: Enabled voice commands to control system functions, including mute/unmute, volume adjustment, application opening, and system shutdown/restart.
+
+
+Joke Delivery: Incorporated the pyjokes library to deliver humor on demand.
+
+
+Time Reporting: Provided real-time time reporting and system sleep mode control.
+
+
+Exception Handling: Ensured robustness with comprehensive exception handling.
+
+
+Impact: This voice-controlled assistant empowers users with hands-free control over various computer functions, making it a versatile tool for everyday tasks and entertainment.
